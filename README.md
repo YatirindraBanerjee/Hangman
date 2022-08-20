@@ -3,4 +3,4 @@
   <h1> Hangman </h1>
 </div>
 <h3>A little command line hangman game written in python. To run this game no external libraries are needed. Just run
-<code> python3 main.py </code> </h3>
+<code> python3 main.py </code>. </h3>
