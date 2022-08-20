@@ -1,5 +1,5 @@
 <div align="center">
-  <a herf="https://github.com/YatirindraBanerjee/Hangman">
+  <a href="https://github.com/YatirindraBanerjee/Hangman">
      <img src="https://cdn-icons-png.flaticon.com/512/7431/7431997.png" alt="Logo" width="80" height="80"/>
   </a>
   <h1> Hangman </h1>
